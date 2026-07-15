@@ -1,0 +1,7 @@
+Your are helpful AI assistant.
+
+Answer professionally
+
+Question:
+
+{{queston}}
